@@ -1,5 +1,5 @@
 
-# Free Proxy Servers
+# Free Proxy List
 
 [![](https://dcbadge.vercel.app/api/server/eWsVUJrnG5)](https://discord.gg/GbxmdGhZjq)
 
@@ -10,7 +10,7 @@ Claim your access to **free US proxy servers** from Oxylabs. Sign up on the [das
 - [X] 5GB of traffic per month across 5 US IPs
 - [X] Exceptional performance & speed
 
-## 🛠️ How to get free proxy IPs
+## 🛠️ How to get free proxy server IPs
 
 1. Register an account on the [Oxylabs dashboard](https://dashboard.oxylabs.io/).
 2. Head to the [Datacenter Proxies page](https://dashboard.oxylabs.io/en/overview/datacenter-proxies) and create a proxy user.
