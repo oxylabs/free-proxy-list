@@ -1,6 +1,6 @@
 # Free Proxy Servers
 
-Get lifetime access to free US proxy servers. Simply sign up on the [dashboard](https://dashboard.oxylabs.io/) to unlock premium features including:
+Get lifetime access to free US proxy servers. Sign up on the [dashboard](https://dashboard.oxylabs.io/) to unlock premium features including:
 
 - [x] Free HTTP/HTTPS/SOCKS5 proxies
 - [X] 20 concurrent sessions
@@ -23,7 +23,7 @@ Sign up for a free account and create a proxy user to instantly access your prox
 
 ## How to get free proxy IPs
 
-1. Start by creating your account on the [Oxylabs dashboard](https://dashboard.oxylabs.io/).
+1. Register your account on the [Oxylabs dashboard](https://dashboard.oxylabs.io/).
 2. Head to the [Datacenter Proxies page](https://dashboard.oxylabs.io/en/overview/datacenter-proxies) and create a proxy user.
 3. Test the connection using a proxy manager or send a web request via cURL, Python, or your preferred setup.
 
@@ -32,7 +32,7 @@ Sign up for a free account and create a proxy user to instantly access your prox
 
 ## Easy proxy management on Chrome
 
-[Oxy® Proxy Manager](https://oxylabs.io/products/chrome-proxy-extension) is a **free Chrome extension**, enabling you to easily switch between multiple IP addresses during browsing sessions. See the [integration steps](https://developers.oxylabs.io/proxies/integration-guides/shared-datacenter-proxies-guides/oxy-proxy-extension-for-chrome) to find out more.
+[Oxy® Proxy Manager](https://oxylabs.io/products/chrome-proxy-extension) is a **free Chrome extension** enabling you to easily switch between multiple IP addresses during browsing sessions. See the [integration steps](https://developers.oxylabs.io/proxies/integration-guides/shared-datacenter-proxies-guides/oxy-proxy-extension-for-chrome) to find out more.
 
 ![](images/oxy_proxy.png)
 
@@ -44,8 +44,15 @@ Oxylabs' free premium proxies easily integrate with various third-party tools an
 
 ### Python integration example
 
+Install the [requests](https://requests.readthedocs.io/en/latest/) library using `pip` via your terminal:
+
+```bash
+pip install requests
+```
+
+Then, create a new Python file and utilize this code sample: 
+
 ```python
-# Use `pip install requests` beforehand.
 import requests
 
 # Replace with your proxy user credentials.
