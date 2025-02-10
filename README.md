@@ -1,6 +1,10 @@
 
 # Free Proxy List
 
+
+[![Free Proxies](https://raw.githubusercontent.com/oxylabs/free-proxies/refs/heads/main/Free-Proxies-1090x275.png)](https://oxylabs.io/products/free-proxies)
+
+
 [![](https://dcbadge.vercel.app/api/server/eWsVUJrnG5)](https://discord.gg/GbxmdGhZjq)
 
 Claim your access to [free US proxy servers](https://oxylabs.io/products/free-proxies) from Oxylabs. Sign up on the [dashboard](https://dashboard.oxylabs.io/) to unlock premium features including:
