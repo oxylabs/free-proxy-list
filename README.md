@@ -5,7 +5,7 @@
 [![Free Proxies](https://raw.githubusercontent.com/oxylabs/free-proxies/refs/heads/main/images/Free%20Proxies-1090x275px-new.png)](https://oxylabs.io/products/free-proxies?utm_source=877&utm_medium=affiliate&groupid=877&transaction_id=102c8d36f7f0d0e5797b8f26152160)
 
 
-[![](https://dcbadge.vercel.app/api/server/eWsVUJrnG5)](https://discord.gg/GbxmdGhZjq)
+[![](https://dcbadge.vercel.app/api/server/eWsVUJrnG5)](https://discord.gg/Pds3gBmKMH)
 
 Claim your access to [free US proxy servers](https://oxylabs.io/products/free-proxies) from Oxylabs. Sign up on the [dashboard](https://dashboard.oxylabs.io/) to unlock premium features including:
 
