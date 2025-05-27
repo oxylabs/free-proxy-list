@@ -63,7 +63,8 @@ response = requests.get('https://ip.oxylabs.io/location', proxies=proxies)
 
 print(response.text)
 ```
-
+Interested in more related content?
+[Best 10 Free Proxy Providers](https://medium.com/@lambert.watts.809/best-10-free-proxy-providers-dd78cd93fc04)
 ## Contacts
 Email - hello@oxylabs.io
 <br><a href="https://oxylabs.drift.click/oxybot">Live chat</a>
