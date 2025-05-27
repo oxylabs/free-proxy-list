@@ -63,8 +63,16 @@ response = requests.get('https://ip.oxylabs.io/location', proxies=proxies)
 
 print(response.text)
 ```
-Interested in more related content?
+### Featured in Technical Communities
+We’re excited to see that our content and tools are being referenced by developers and technical writers across platforms!
+
 [Best 10 Free Proxy Providers](https://medium.com/@lambert.watts.809/best-10-free-proxy-providers-dd78cd93fc04)
+
+[What Is a Residential Proxy?](https://medium.com/@marvis.crisco67/what-is-a-residential-proxy-101e71812a2f)
+
+[12 Best Proxy Providers](https://medium.com/@simon.dalton.349/best-proxy-providers-77e68734574f)
+
+
 ## Contacts
 Email - hello@oxylabs.io
 <br><a href="https://oxylabs.drift.click/oxybot">Live chat</a>
