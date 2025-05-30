@@ -2,7 +2,7 @@
 # Free Proxy List
 
 
-[![Free Proxies](https://raw.githubusercontent.com/oxylabs/free-proxies/refs/heads/main/images/Free%20Proxies-1090x275px-new.png)](https://oxylabs.io/products/free-proxies?utm_source=877&utm_medium=affiliate&groupid=877&transaction_id=102c8d36f7f0d0e5797b8f26152160)
+[![Free Proxies](https://raw.githubusercontent.com/oxylabs/free-proxy-list/refs/heads/main/images/Free-proxies-V1_GitHub.png)](https://oxylabs.io/products/free-proxies?utm_source=877&utm_medium=affiliate&groupid=877&transaction_id=102c8d36f7f0d0e5797b8f26152160)
 
 
 [![](https://dcbadge.vercel.app/api/server/eWsVUJrnG5)](https://discord.gg/Pds3gBmKMH)
